@@ -1,0 +1,37 @@
+{
+  "nome": "Penov",
+  "niveis_desbloqueados": [
+    "facil",
+    "medio",
+    "dificil"
+  ],
+  "expedicoes": [
+    {
+      "dificuldade": "facil",
+      "numero": 1,
+      "completada": false,
+      "treinos": [
+        {
+          "data": "2026-05-22",
+          "tentativas": [
+            {
+              "nivel": "V1",
+              "completou": true,
+              "data_hora": "2026-05-22T01:45:00.514600"
+            }
+          ]
+        },
+        {
+          "data": "2026-05-22",
+          "tentativas": [
+            {
+              "nivel": "V9",
+              "completou": true,
+              "data_hora": "2026-05-22T01:45:31.327991"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
