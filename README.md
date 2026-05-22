@@ -1,10 +1,10 @@
-# 🧗 Climbing Tracker
+Climbing Tracker
 
 A CLI-based climbing tracker that logs your boulder sessions, calculates consistency scores, and visualizes your progress through charts and an expedition system with unlockable difficulty levels.
 
 ---
 
-## Features
+Features
 
 - **Session logging** — register every route you attempt during a session, including the grade and whether you completed it
 - **Score system** — each grade (V0–V9) has a point value; completing a route scores full points, failing scores half
